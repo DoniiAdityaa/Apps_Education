@@ -30,7 +30,7 @@ class DescriptionSection extends StatelessWidget {
                 width: 7,
               ),
               Text(
-                '26 Jam',
+                '5 Jam',
                 style: TextStyle(
                   fontSize: 14,
                   fontWeight: FontWeight.bold,
